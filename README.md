@@ -44,7 +44,7 @@ NFT holders earn rewards from yacht charters!<br />
 So each NFT is asset backed!<br />
 
 #Web3 Gaming:<br />
-We have started development on our crypto and NFT based multiplayer Adventure Game for this hackathon. </br>
+We have started development on our crypto and NFT based multiplayer Adventure Game. </br>
 Players will be able to buy our NFT Fractional yachts and sail them (virtually in the game) to explore the ocean and various islands.
 On each island are hidden NFT treasures and tokens, waiting to be found! 
 Each island will be part of our virtual LAND SALE
@@ -65,7 +65,7 @@ Putting your virtual sailing skills to the test!
 
 
 
-Additional features outside the Hackathon:<br />
+Additional features:<br />
 
 The reward system (WIND) is tied to the fractional NFTs and earned in the game.<br />
 The fractional yachts are chartered in real life and the proceeds therefrom are used to buy back WIND tokens.
