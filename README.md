@@ -1,6 +1,6 @@
 <p align="center">
 <br />
-<a href="https://salientyachts.com"><img src="https://salientyachts.com/Documents/s1Logo.png"  alt="logo"/></a>
+<a href="https://salientyachts.com"><img src="[https://salientyachts.com/Documents/s1Logo.png](https://cryptosailing.quest/static/media/CryptoSailing.cec1def3570a02dfb4c3.jpg)"  alt="logo"/></a>
 <br />
 </p>
 <h1 align="center"># Demo Project</h1>
