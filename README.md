@@ -16,6 +16,8 @@ View our [Game and dApp Video](https://youtu.be/YWuupfzihCY)
 
 View our [Game Pitchdeck](https://drive.google.com/file/d/1DjU3i1XNlUVeyTwbwcSI2vH2zZX27N5U/view) to see what we have planned!
 
+Game Demo
+https://drive.google.com/drive/u/1/folders/1PlEhT9qRzhcmvHXFU0j24TgtDqYW6nky
 
 # About Salient Yachts
 Salient Yachts owns production molds for manufacturing Luxury Catamarans Family Pleasure Yachts.
