@@ -10,6 +10,7 @@
 </p>
 <p align="center"><strong>Web3 Gaming Solution</strong></p>
 <br />
+View our [Game and dApp Video](https://youtu.be/YWuupfzihCY)
 
 View our [Game Pitchdeck](https://drive.google.com/file/d/1DjU3i1XNlUVeyTwbwcSI2vH2zZX27N5U/view) to see what we have planned!
 
