@@ -12,9 +12,9 @@
 <br />
 
 
-View our [Game and dApp Video](https://youtu.be/tocome) 
+View our [Game and dApp Video](https://youtu.be/O5jiCqw-xso) 
 
-View our [Game Pitchdeck](https://drive.google.com/drive/folders/1SZy3XBSaPkWiasdqq1byk-Y29FWt32vc?usp=sharing) to see what we have planned!
+View our [Game Pitchdeck](https://salientyachts.com/Documents/SY_Game.pdf) to see what we have planned!
 
 Game Demo
 [https://drive.google.com/drive/u/1/folders/1PlEhT9qRzhcmvHXFU0j24TgtDqYW6nky](https://drive.google.com/drive/folders/1SZy3XBSaPkWiasdqq1byk-Y29FWt32vc?usp=sharing)
