@@ -12,12 +12,25 @@
 <br />
 
 
-View our [Game and dApp Video](https://youtu.be/O5jiCqw-xso) 
 
 View our [Game Pitchdeck](https://salientyachts.com/Documents/SY_Game.pdf) to see what we have planned!
 
-Game Demo
-[https://drive.google.com/drive/u/1/folders/1PlEhT9qRzhcmvHXFU0j24TgtDqYW6nky](https://drive.google.com/drive/folders/1SZy3XBSaPkWiasdqq1byk-Y29FWt32vc?usp=sharing)
+Our Project is backed by real world assets which are fully insured
+
+Sail the yachts in the real world using your NFT rewards and charter a holiday on any of our yachts.
+
+Sail the yachts virtually in our VR Sailing Game
+
+Explore island living in the real world at exotic locations around the world such as Mauritius and the Caribbean.
+
+Explore island virtual world in our 3D adventure game - Crypto Sailing Quest
+
+PFP NFT artwork collection giving real life ownership of the yacht while being passively rewarded.
+
+Users become our Boat Brokers earing commissions of NFT sales using our affiliate program.
+
+We have global expansion plans for multiple yachts builds and marinas
+
 
 # About Salient Yachts
 Salient Yachts owns production molds for manufacturing Luxury Catamarans Family Pleasure Yachts.
